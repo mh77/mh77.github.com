@@ -1,0 +1,22 @@
+body { 
+	color: #555;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	padding: 40px;
+}
+
+a {
+	color: #11b1e0;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #0b90b7;
+}
+
+#content h2 {
+  color: #555;
+	font-size: 1.5em;
+	letter-spacing: -1px;
+	font-weight: normal;
+	text-decoration: none;
+}
